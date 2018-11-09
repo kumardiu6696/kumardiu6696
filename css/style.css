@@ -1,0 +1,49 @@
+*{
+	width: 1080px;
+	margin: 0 auto;
+}
+h1{
+	color: black;
+	text-align: center;
+	margin-top: 2px;
+	margin-bottom: 6px;
+}
+h3{
+	font-size:10ex;
+	text-align: center;
+	color: tomato;
+
+}
+h4{
+	font-size: 11ex;
+	text-align: center;
+	color: blue;
+}
+
+
+a{
+	text-align: right;
+	background-color: none;
+	color: solid black;
+	font-size: 3ex;
+	margin: 2px;
+	text-decoration: none;
+}
+h2{
+	text-align: right;
+}
+h5{
+	text-align: center;
+	color: black;
+	font-size: 20ex;
+}
+
+#cont p{
+	text-align: center;
+}
+
+p{
+	font-size: 25px;
+	color: solid black;
+
+}
